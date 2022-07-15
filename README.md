@@ -9,6 +9,7 @@
   <img align="center" alt="fsmaiorano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="fsmaiorano-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="fsmaiorano-Xamarin" height="30" width="40" src="https://seekicon.com/free-icon-download/xamarin_1.svg">
+   <img align="center" alt="fsmaiorano-Xamarin" height="30" width="40" src="https://seekicon.com/free-icon-download/go_2.svg">
 </div>
 
 ##
