@@ -1,58 +1,54 @@
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 
-**Languages:**
-
+### **Programming Languages**
 - C#
-- Javascript/Typescript
+- JavaScript / TypeScript
 - HTML
 - CSS
 - Dart
-- Golang (Learning...)
+- Go *(Learning)*
 
-**Frameworks and Libraries:**
+### **Frameworks & Libraries**
 
-- .NET Core and Framework
+#### Backend
+- .NET (Core & Framework)
 - ASP.NET Core
+- Node.js (NestJS, Express, Fastify)
+
+#### Frontend & Mobile
 - React
 - React Native
-- Angular 2+
-- NodeJS (NestJS, Express, Fastify)
-- JQuery
+- Angular (2+)
 - Flutter
-- MAUI (successor of Xamarin)
+- MAUI *(successor to Xamarin)*
 - Expo
-- TailwindCSS
+- jQuery
+- Tailwind CSS
 
-**Databases:**
-
+### **Databases**
 - SQL Server
-- PostgresSQL
+- PostgreSQL
 
-**ORMs:**
-
+### **ORMs & Data Access**
 - Entity Framework
 - Prisma
 
-**Tools:**
-
+### **DevOps & Tooling**
 - Docker
 - Podman
-- Azure Devops
-- GIT
+- Azure DevOps
+- Git
 - RabbitMQ
 
-## Architecture & Design Patterns
+---
 
-- MVC
-- MVVM
-- DDD
+## 🧩 Architecture & Design Patterns
+
+- MVC *(Model–View–Controller)*
+- MVVM *(Model–View–ViewModel)*
+- DDD *(Domain-Driven Design)*
 - Clean Architecture
-- Mediator
-- Microservices
-- Event-driven
-- Design system pattern
-
-
-
-
-
+- Mediator Pattern
+- Microservices Architecture
+- Event-Driven Architecture
+- Design System Pattern *(for UI consistency and scalability)*
