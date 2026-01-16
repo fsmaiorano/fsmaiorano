@@ -1,54 +1,9 @@
-## 🛠️ Technologies & Tools
+Architecture: Monolith, Microservices, Event-Driven, Clean-Architecture, MVC, MVVM, CQRS
+Languages: C#, JavaScript/TypeScript, Dart
+Backend: .NET (Core & Framework), ASP.NET (Core & Framework), Node.js (NestJS, Express, Fastify), RabbitMQ
+Frontend: React, Angular
+Mobile: .NET MAUI (Xamarin), Flutter, React Native (Expo)
+Databases: SQL Server, PostgreSQL, MongoDB 
+DevOps: Docker, Podman, Azure DevOps, Git
 
-### **Programming Languages**
-- C#
-- JavaScript / TypeScript
-- HTML
-- CSS
-- Dart
-- Go *(Learning)*
 
-### **Frameworks & Libraries**
-
-#### Backend
-- .NET (Core & Framework)
-- ASP.NET Core
-- Node.js (NestJS, Express, Fastify)
-
-#### Frontend & Mobile
-- React
-- React Native
-- Angular (2+)
-- Flutter
-- MAUI *(successor to Xamarin)*
-- Expo
-- jQuery
-- Tailwind CSS
-
-### **Databases**
-- SQL Server
-- PostgreSQL
-
-### **ORMs & Data Access**
-- Entity Framework
-- Prisma
-
-### **DevOps & Tooling**
-- Docker
-- Podman
-- Azure DevOps
-- Git
-- RabbitMQ
-
----
-
-## 🧩 Architecture & Design Patterns
-
-- MVC *(Model–View–Controller)*
-- MVVM *(Model–View–ViewModel)*
-- DDD *(Domain-Driven Design)*
-- Clean Architecture
-- Mediator Pattern
-- Microservices Architecture
-- Event-Driven Architecture
-- Design System Pattern *(for UI consistency and scalability)*
